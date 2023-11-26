@@ -9,3 +9,11 @@ f
 6src/composicaosobreheranca/contexto/GridContainer.java,0\e\0e0516f4ace9bb1abbdbb1e8c4a730a18a9dc04f
 d
 4src/composicaosobreheranca/contexto/TesteLayout.java,2\f\2f77e8b38006c97c63ef371447b617593325d732
+q
+Asrc/composicaosobreheranca/contexto/FlowContainerBordaSolida.java,b\e\bee42c4a2040f08b7ba6765f8eed7b97ac286b6b
+t
+Dsrc/composicaosobreheranca/contexto/FlowContainerBordaTracejada.java,3\6\368b5d5a6a6e446b78bedff7a58a0c9d5f618a9e
+q
+Asrc/composicaosobreheranca/contexto/GridContainerBordaSolida.java,e\8\e8fd6e6b960c953c3117ce073837ab484864171f
+t
+Dsrc/composicaosobreheranca/contexto/GridContainerBordaTracejada.java,0\4\047ea2ad8716acf289344996c03aa6f001387bed

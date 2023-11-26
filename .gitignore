@@ -5,6 +5,7 @@ out/
 DesignPatterns.iml
 github
 github.pub
+.idea
 
 ### Eclipse ###
 .apt_generated
