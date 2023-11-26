@@ -2,6 +2,9 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+DesignPatterns.iml
+github
+github.pub
 
 ### Eclipse ###
 .apt_generated
