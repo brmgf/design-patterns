@@ -17,8 +17,6 @@ q
 Asrc/composicaosobreheranca/contexto/GridContainerBordaSolida.java,e\8\e8fd6e6b960c953c3117ce073837ab484864171f
 t
 Dsrc/composicaosobreheranca/contexto/GridContainerBordaTracejada.java,0\4\047ea2ad8716acf289344996c03aa6f001387bed
-n
->src/composicaosobreheranca/contexto/melhorabordagem/Borda.java,c\7\c73c58eada018c3d2b9c5151b562353e7ae51826
 e
 5src/composicaosobreheranca/melhorabordagem/Borda.java,7\2\7206cdf09723d2c0bfd3c674694e0ee9d91578e7
 n
@@ -35,3 +33,13 @@ m
 =src/composicaosobreheranca/melhorabordagem/GridContainer.java,a\1\a1575bc93ed3a01c7550f7e867835c25a7ed676e
 k
 ;src/composicaosobreheranca/melhorabordagem/TesteLayout.java,6\b\6bb02c54174f6d647a782baf64faa84f9d5f2ee7
+d
+4src/encapsularoquevaria/contexto/JogadorFutebol.java,9\9\995b1ad5c84ee9de0125fe79b37ee9f0129abf80
+]
+-src/encapsularoquevaria/contexto/Jogador.java,0\5\053a7d9693acfe06ca98b94393af7d461d56319f
+b
+2src/encapsularoquevaria/contexto/JogadorTenis.java,0\0\0050a10c3912a02e99a4f210fe2df4e97f9e9d4c
+_
+/src/encapsularoquevaria/contexto/TesteJogo.java,1\5\15a6699f415b1101688c33da99a65c97c274ef09
+b
+2src/encapsularoquevaria/contexto/JogadorGolfe.java,a\0\a04e3af7ae1d9ea90e4a1d48307d6265adce0fbb
