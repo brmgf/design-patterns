@@ -49,3 +49,11 @@ S
 ,src/patterns/strategy/ConcreteStrategy2.java,0\9\09d26e01e098a5d972190b2334983d9ea6a7bc78
 Q
 !src/patterns/strategy/Client.java,a\9\a9d53be16eb5a14bd45b988bca2a9f84d1f3d85c
+P
+ src/patterns/adapter/Target.java,a\6\a6f4019778c3abb69bde3439b87d0195cbb6eebe
+Q
+!src/patterns/adapter/Adapter.java,2\1\21d12b74d182e3b49b71f2d1b07faaea442d4867
+Q
+!src/patterns/adapter/Adaptee.java,8\1\818597aa31a0ef792e0422cb3ebbb5a43c70f197
+P
+ src/patterns/adapter/Client.java,9\d\9d2d5782139afc130f9b0551ad8bedd8ebdce8ab
