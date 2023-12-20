@@ -37,3 +37,15 @@ s
 Csrc/principios/encapsularoquevaria/melhorabordagem/TipoCorrida.java,d\5\d5bf078350cf88e28d67894937e60860148800eb
 q
 Asrc/principios/encapsularoquevaria/melhorabordagem/TesteJogo.java,e\f\ef9c82f7e30625f5fbf89c69b738ce7f3b0f4dfe
+R
+"src/patterns/strategy/stategy.java,7\0\70dcd7e2cbb72eb2d40dc409713f905ea047db63
+S
+#src/patterns/strategy/strategy.java,0\2\020129726aceb5d4d44b20f284b147a817f28cc8
+\
+,src/patterns/strategy/ConcreteStrategy1.java,b\7\b72620932d73f6d2f753d688544e6ba53d1b188e
+S
+#src/patterns/strategy/Strategy.java,3\a\3a28aa88785998c2bde4c98235668c439cf00abf
+\
+,src/patterns/strategy/ConcreteStrategy2.java,0\9\09d26e01e098a5d972190b2334983d9ea6a7bc78
+Q
+!src/patterns/strategy/Client.java,a\9\a9d53be16eb5a14bd45b988bca2a9f84d1f3d85c
