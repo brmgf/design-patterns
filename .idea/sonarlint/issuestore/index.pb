@@ -57,3 +57,13 @@ Q
 !src/patterns/adapter/Adaptee.java,8\1\818597aa31a0ef792e0422cb3ebbb5a43c70f197
 P
  src/patterns/adapter/Client.java,9\d\9d2d5782139afc130f9b0551ad8bedd8ebdce8ab
+O
+src/patterns/facade/Client.java,c\3\c31cf4f097c80013e5e24e37c3208c99d5f299c5
+Q
+!src/patterns/facade/Service1.java,f\b\fb2ccde94d3b04a987ee49e80769e1a57e253178
+Q
+!src/patterns/facade/Service2.java,a\a\aaf7d1ea50e68f2bf761f0bc260ed842b4a447f4
+Q
+!src/patterns/facade/Service3.java,0\e\0e1e10a1a4431e40ab8889ff149a475671cd9529
+O
+src/patterns/facade/Facade.java,3\5\3507a5966063c78f12f9c3ffcb5eae96c383638f
