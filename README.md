@@ -42,3 +42,23 @@ Então temos uma classe abstrata Jogador e a partir dela teremos um jogador de f
 **Melhor abordagem:** Cria-se uma inferface para o comportamento de correr e as classes de jogadores que devem correr passam a implementar essa interface.
 
 Essa solução isola partes do código que variam tornando mais fácil a manutenção de forma a não prejudicar as partes que não variam.
+
+## Patterns
+
+### Strategy
+Definição: permite que algoritmos sejam selecionados em tempo de execução. É útil em situações onde é necessário trocar os algoritmos usados em uma aplicação.
+
+### Adapter
+Definição: converte a interface de uma classe em outra interface que o cliente espera. Permite que classes incompatíveis trabalhem juntas.
+
+### Facade
+Definição: fornece uma interface unificada para um conjunto de interfaces em um subsistema. Define um nível de interface mais alto que torna o subsistema mais fácil de ser utilizado.
+
+### Singleton
+Definição: assegura que uma classe possua apenas uma instância e fornece um ponto de acesso global a classe.
+
+### Factory Method
+Definição: define uma interface para criar um objeto mas deixa a subclasse decidir qual classe será instanciada.
+
+### Abstract Factory
+Definição: fornece uma interface para famílias relacionadas ou dependentes sem especificar as suas classes concretas.
